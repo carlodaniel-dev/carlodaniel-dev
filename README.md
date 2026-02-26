@@ -27,14 +27,6 @@ I like to explore new technologies and develop software solutions and quick hack
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlodaniel-dev&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-## ⚙️ Github Statistics
-
-<p align="center">
-<a href="https://github.com/carlodaniel-dev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlodaniel-dev&theme=algolia" alt="carlodaniel-dev"/>
-</a>
-</p>
-
 ## 🤝🏻 &nbsp;Connect with Me
 <div align="Center">
 
