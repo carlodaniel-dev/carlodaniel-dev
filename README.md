@@ -20,7 +20,7 @@ I like to explore new technologies and develop software solutions and quick hack
 
 | Lenguages | Frameworks & Web | Databases & Tools |
 | ------------- | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=cpp,java,js,py"/> | <img src="https://skillicons.dev/icons?i=astro,angular,html,css"/> |<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,vscode,github,gmail"/>
+| <img src="https://skillicons.dev/icons?i=cpp,java,js,py"/> | <img src="https://skillicons.dev/icons?i=astro,angular,html,css"/> |<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,vscode,github"/>
 </div>
 
 <div align="Center">
