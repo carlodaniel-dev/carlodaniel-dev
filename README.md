@@ -13,7 +13,7 @@ I like to explore new technologies and develop software solutions and quick hack
 * 💻 I'm a web developer
 
 🌐 You can see some of my projects on [my portfolio](https://carlosalcan-portfolio.netlify.app/).<br>
-📄  Please have a look at my [Résumé]() for more details about me. I'm open to new projects and ideas!
+📄  Please have a look at my [Résumé](https://raw.githubusercontent.com/carlodaniel-dev/carlodaniel-dev/main/CV.pdf) for more details about me. I'm open to new projects and ideas!
 
 ## 🛠 Languages and Tools
 <div align="Center">
